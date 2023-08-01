@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "title": "Tiny theme add-on: Adaptive Photo Layout",
+  "description": "Enable adaptive photo layouts on posts and pages. Must read documentation.",
+  "includes": [
+	"/adaptive_photo_layout.css"
+  ]
+}
