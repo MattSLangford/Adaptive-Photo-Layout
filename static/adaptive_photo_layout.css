@@ -2,6 +2,7 @@
 	display: flex;
 	flex-wrap: wrap;
 	padding: 0;
+	list-style: none;
 }
 
 .adaptive_photo_layout li {
@@ -19,6 +20,7 @@
 	object-fit: cover;
 	vertical-align: bottom;
 	width: auto;
+	border-radius: 0;
 }
 
 @media (max-aspect-ratio: 1/1) {
