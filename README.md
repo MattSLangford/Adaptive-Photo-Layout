@@ -2,7 +2,7 @@
 
 Enables adaptive photo layouts for posts and pages on Micro.blog.
 
-![Adaptive Photo Layout Icon](#)
+![Adaptive Photo Layout Icon](https://github.com/MattSLangford/Adaptive-Photo-Layout/blob/main/screenshot.jpg?raw=true)
 
 ### Installation
 
