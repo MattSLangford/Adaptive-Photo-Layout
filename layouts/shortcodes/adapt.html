@@ -1,0 +1,16 @@
+{{/* layouts/shortcodes/mdshortcode.html */}}
+{{ $photos := findRE "<img\\s+src=[\"']([^\"']+)[\"'](\\s+alt=[\"']([^\"']+))?\\s*>" .Inner }}
+{{ if gt (len $photos) 0 }}
+	<div class="adaptive_photo_layout">
+		<ul>
+			{{ range $photos }}
+				{{ $src := index . 1 }}
+				{{ $alt := index . 3 | default "" }}
+				<li><img src="{{ $src }}" alt="{{ $alt }}" loading="lazy"></li>
+			{{ end }}
+			<li></li>
+		</ul>
+	</div>
+{{ else }}
+	<p style="color: red;">Photo Album Not Formatted Properly.</p>
+{{ end }}
