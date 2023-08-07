@@ -16,10 +16,10 @@ To use this plugin, you're required to use the following code in your post or pa
 <div class="adaptive_photo_layout">
 	<ul>
 		<li><img src="LINK TO IMAGE 1" alt="IMAGE 1 DESCRIPTION" loading="lazy"></li>
-		<li><img src="LINK TO IMAGE 1" alt="IMAGE 1 DESCRIPTION" loading="lazy"></li>
-		<li><img src="LINK TO IMAGE 1" alt="IMAGE 1 DESCRIPTION" loading="lazy"></li>
-		<li><img src="LINK TO IMAGE 1" alt="IMAGE 1 DESCRIPTION" loading="lazy"></li>
-		<li><img src="LINK TO IMAGE 1" alt="IMAGE 1 DESCRIPTION" loading="lazy"></li>
+		<li><img src="LINK TO IMAGE 2" alt="IMAGE 2 DESCRIPTION" loading="lazy"></li>
+		<li><img src="LINK TO IMAGE 3" alt="IMAGE 3 DESCRIPTION" loading="lazy"></li>
+		<li><img src="LINK TO IMAGE 4" alt="IMAGE 4 DESCRIPTION" loading="lazy"></li>
+		<li><img src="LINK TO IMAGE 5" alt="IMAGE 5 DESCRIPTION" loading="lazy"></li>
 		<li></li>
 	</ul>
 </div>
