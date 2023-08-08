@@ -33,6 +33,17 @@ You can additionally link any/all image(s) to larger versions (or anything else)
 <li><a href="INSERT LINK"><img src="LINK TO IMAGE" alt="IMAGE 1 DESCRIPTION" loading="lazy"></a></li>
 ```
 
+### iOS/MacOS Shortcuts
+
+Jarrod Blundy of [HeyDingus.net](https://heydingus.net) (see his [Shortcuts Library](https://heydingus.net/shortcuts)) created a pair of Shortcuts for iOS/MacOS that enables quick creation of galleries.
+
+- [Gallery Creator](https://www.icloud.com/shortcuts/d356c88c7d924ec4b14c925febfb1fe0) (default creation)
+- [Gallery Builder](https://www.icloud.com/shortcuts/111da86d6f544104936b61320da394dd) (add more photos to an existing album)
+
+The first time you run the Shortcuts, you'll be required to entire your Micro.blog information and agree to the necessary permissions. You'll also be shown each image and given a field to add proper alt descriptions.
+
 ### Support Development
 
-[Support the development](https://paypal.me/mattslangford) of this theme and plugins.
+Tiny Theme and its plugins are provided free-of-charge to Micro.blog users. I do not receive payment from Micro.blog in any way. If you'd like to help offset expenses and insure the future of Tiny and its plugins, please consider supporting its development.
+
+<a href="https://www.buymeacoffee.com/mattlangford" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
