@@ -44,6 +44,6 @@ The first time you run the Shortcuts, you'll be required to entire your Micro.bl
 
 ### Support Development
 
-Tiny Theme and its plugins are provided free-of-charge to Micro.blog users. I do not receive payment from Micro.blog in any way. If you'd like to help offset expenses and insure the future of Tiny and its plugins, please consider supporting its development.
+Tiny Theme and its plugins are provided free of charge to Micro.blog users. I do not receive payment from Micro.blog in any way. If you'd like to help offset expenses and ensure the future of Tiny and its plugins, please consider supporting its development.
 
 <a href="https://www.buymeacoffee.com/mattlangford" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
