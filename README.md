@@ -1,6 +1,6 @@
 # Adaptive-Photo-Layout
 
-Enables adaptive photo layouts for posts and pages on Micro.blog.
+Enables adaptive photo layouts for posts and pages on Micro.blog. Based on work by [Max Voltar](https://www.maxvoltar.com/?be).
 
 ![Adaptive Photo Layout Icon](https://github.com/MattSLangford/Adaptive-Photo-Layout/blob/main/screenshot.jpg?raw=true)
 
@@ -42,8 +42,9 @@ Jarrod Blundy of [HeyDingus.net](https://heydingus.net) (see his [Shortcuts Libr
 
 The first time you run the Shortcuts, you'll be required to entire your Micro.blog information and agree to the necessary permissions. You'll also be shown each image and given a field to add proper alt descriptions.
 
-### Support Development
+### Do you value this plugin?
 
 Tiny Theme and its plugins are provided free of charge to Micro.blog users. I do not receive payment from Micro.blog in any way. If you'd like to help offset expenses and ensure the future of Tiny and its plugins, please consider supporting its development.
 
-<a href="https://www.buymeacoffee.com/mattlangford" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+[Make a Donation](https://donate.stripe.com/5kAeV7gWk9fk7aE7ss) in any amount. Thank you!
+
